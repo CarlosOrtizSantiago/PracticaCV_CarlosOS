@@ -8,6 +8,14 @@ namespace PracticaCV_CarlosOS
 {
     public class Clase_CarlosOS
     {
+        //CONSTANTES
 
+        //MIEMBROS PRIVADOS
+
+        //CONSTRUCTORES
+
+        //METODOS
+
+        //PROPIEDADES
     }
 }
